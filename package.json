@@ -1,0 +1,25 @@
+{
+  "name": "curso.dev",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Nmartins6/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/Nmartins6/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nmartins6/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "Nicolas Martins",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.4.2",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
